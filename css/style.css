@@ -1,16 +1,75 @@
-nav{
-    background-color: darkgray;
-    color: gainsboro;
-    padding: 30px;
-    margin-top: 20px;
-    clear:both;
-  }
+* {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  /* clear: both; */
+}
+header {
+    background-color: gray;
+    height: 100px;
+    width: 80%;
+}
 
-.nav
-.960img
-.3spread
-.imgwtext
-.footer
+.headerNav {
+  display: flex;
+}
+.navImage {
+  padding-top: 15px;
+  padding-left: 50px;
+}
+.navBar {
+  padding: 25px;
+}
+
+.navBar ul {
+}
+
+.navBar li{
+  display: inline;
+  margin: 30px;
+  text-decoration: none;
+  color:ghostwhite;
+}
+
+.nineSixtyImg {
+  margin: 30px;
+  margin-left: 50px;
+ }
+
+ .three {
+  margin-left: 50px;
+}
+
+.middle {
+  padding-right: 30px;
+  padding-left: 30px;
+}
+
+.textBox {
+  padding-bottom: 10px;
+  /* padding: 20px; */
+
+}
+.textBox img {
+  float: left;
+}
+
+.textBoxImg{
+  margin-left: 50px;
+
+}
+
+.text {
+overflow-y: scroll;
+width: 440px;
+height: 200px;
+border: solid;
+padding: 10px;
+}
+
+footer {
+background-color: gray;
+height: 100px;
+width: 80%;
+margin-top: 130px;
+}
 
 
-  footer
