@@ -19,8 +19,6 @@ header {
   padding: 25px;
 }
 
-.navBar ul {
-}
 
 .navBar li{
   display: inline;
@@ -57,12 +55,17 @@ header {
 
 }
 
+
 .text {
 overflow-y: scroll;
 width: 440px;
 height: 200px;
 border: solid;
 padding: 10px;
+}
+
+.button {
+  padding: 10px;
 }
 
 footer {
